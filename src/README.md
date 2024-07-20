@@ -8,7 +8,6 @@ calcule e mostre o total do salário líquido no referido mês.
 Obs.: Salário Bruto - Descontos = Salário Líquido.
 
 A saída do programa deve fornecer as seguintes informações:
-
 1.Salário bruto.
 2.Quanto pagou ao INSS.
 3.Quanto pagou de Imposto de Renda.
